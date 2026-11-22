@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Keshav Garg — I build AI and onchain products, end to end">
+  <defs>
+    <radialGradient id="glow" cx="88%" cy="20%" r="60%">
+      <stop offset="0" stop-color="#b9a6ff" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#b9a6ff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="#000"/>
+  <rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="19.5" fill="none" stroke="#ffffff" stroke-opacity="0.12"/>
+  <g font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="64" y="118" fill="#ffffff" font-size="64" font-weight="700" letter-spacing="-1.5">Keshav Garg</text>
+    <text x="64" y="172" fill="#d8ceff" font-size="30" font-weight="500">I build AI + onchain products, end to end.</text>
+    <text x="64" y="236" fill="#ffffff" fill-opacity="0.55" font-size="20" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">TypeScript · Next.js · Node · Postgres · Solana · EVM · Sui Move · Azure</text>
+  </g>
+</svg>

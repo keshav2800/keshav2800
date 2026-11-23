@@ -24,6 +24,7 @@ I build products end to end: the frontend, the backend, the onchain parts and th
 
 **In review**
 
+- [fix(trade): make chart controls usable on touch devices](https://github.com/SO4-Markets/interface/pull/1064) · `SO4-Markets/interface`
 - [fix(test): import Role from its current location in admin e2e spec](https://github.com/Stellar-Uzima/Uzima-Backend/pull/1760) · `Stellar-Uzima/Uzima-Backend`
 <!-- OPEN-SOURCE:END -->
 
